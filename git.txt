@@ -1,0 +1,5 @@
+https://github.com/Pradeeprachapalli/DevOps.git
+
+git remote add dev https://github.com/Pradeeprachapalli/DevOps.git
+
+git remote -v
