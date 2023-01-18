@@ -1,4 +1,5 @@
-https://github.com/Pradeeprachapalli/DevOps.git
+updated the file in  18-01-2023
+ihttps://github.com/Pradeeprachapalli/DevOps.git
 
 git remote add dev https://github.com/Pradeeprachapalli/DevOps.git
 
